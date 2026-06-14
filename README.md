@@ -4,8 +4,6 @@
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![FLEXBOX](https://img.shields.io/badge/Flexbox-Modern_Layout-38B2AC?style=for-the-badge)
-![RESPONSIVE](https://img.shields.io/badge/Responsive_Design-Mobile_First-8B5CF6?style=for-the-badge)
 ![NEWBIE](https://img.shields.io/badge/Frontend_Mentor-NEWBIE-3DB8FF?style=for-the-badge)
 
 </div>
