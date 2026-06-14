@@ -16,7 +16,7 @@ This project focuses on Flexbox layouts, responsive design, card positioning, ty
 
 ## Preview
 
-![Design preview for the Four Card Feature Section](./preview.jpg)
+![Design preview for the Four Card Feature Section](./design/desktop-preview.jpg)
 
 ---
 
